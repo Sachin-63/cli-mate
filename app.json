@@ -1,7 +1,9 @@
 {
   "expo": {
-    "name": "weather-app",
+    "name": "Cli Mate",
     "slug": "weather-app",
+    "privacy": "public",
+    "description": "An application to get a quick update on weather.",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
